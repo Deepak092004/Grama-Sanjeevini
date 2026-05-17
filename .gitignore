@@ -1,0 +1,13 @@
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+
+# Firebase
+app/google-services.json
+
