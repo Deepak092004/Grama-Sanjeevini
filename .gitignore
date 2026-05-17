@@ -11,3 +11,6 @@ captures/
 # Firebase
 app/google-services.json
 
+# Large Gradle files
+gradle-dist/
+*.zip
