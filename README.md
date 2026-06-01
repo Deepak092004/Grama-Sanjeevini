@@ -1,4 +1,4 @@
-## Grama-Sanjeevini – Rural Pharmacy Network (Compose + Firestore)
+## Grama-Sanjeevini – Rural Pharmacy Network (Compose + Firestore).
 
 ### What you get
 - **Medicine Search** across multiple pharmacies (distance + stock status)
